@@ -1,14 +1,11 @@
 ----- Boss Information -----
- - katan(10.00) : 00:16:41 @ 2022-01-13 (No Input 0t) * 
- - felis(03.00) : 00:36:11 @ 2022-01-13 (Fake Spawn 0t) * 
- - timitris(08.00) : 01:55:16 @ 2022-01-13 (No Input 0t) * 
- - basila(04.00) : 01:57:04 @ 2022-01-13 (Fake Spawn 0t) * 
- - contaminated(08.00) : 02:16:21 @ 2022-01-13 (No Input 0t) * 
  - matura(06.00) : 03:32:14 @ 2022-01-13 (Fake Spawn 0t) * 
+ - felis(03.00) : 03:36:11 @ 2022-01-13 (Fake Spawn 1t) * 
  - pannarod(05.00) : 04:57:19 @ 2022-01-13 (Fake Spawn 1t) * 
  - stonegeist(07.00) : 04:58:13 @ 2022-01-13 (No Input 0t) * 
  - antqueen(06.00) : 05:36:44 @ 2022-01-13 (Fake Spawn 1t) * 
  - chertuba(06.00) : 05:54:22 @ 2022-01-13 (Fake Spawn 2t) * 
+ - basila(04.00) : 05:57:04 @ 2022-01-13 (Fake Spawn 1t) * 
  - valefar(06.00) : 05:57:24 @ 2022-01-13 (Fake Spawn 0t) * 
  - pandraeed(06.00) : 05:57:42 @ 2022-01-13 (No Input 1t) * 
  - enkura(06.00) : 05:57:48 @ 2022-01-13 (Fake Spawn 1t) * 
@@ -17,8 +14,11 @@
  - breka(06.00) : 05:59:45 @ 2022-01-13 (Fake Spawn 0t) * 
  - behemoth(09.00) : 06:13:11 @ 2022-01-13 (No Input 0t) * 
  - mutated(08.00) : 07:52:56 @ 2022-01-13 (No Input 0t) * 
+ - timitris(08.00) : 09:55:16 @ 2022-01-13 (No Input 1t) * 
  - kelsus(10.00) : 09:56:02 @ 2022-01-13 (Fake Spawn 0t) * 
  - medusa(10.00) : 09:57:13 @ 2022-01-13 (No Input 0t) * 
  - sarka(10.00) : 09:58:29 @ 2022-01-13 (No Input 0t) * 
  - talakin(10.00) : 09:59:37 @ 2022-01-13 (No Input 0t) * 
+ - contaminated(08.00) : 10:16:21 @ 2022-01-13 (No Input 1t) * 
+ - katan(10.00) : 10:20:10 @ 2022-01-13 (No Input 0t) * 
  - lily(12.00) : 11:48:48 @ 2022-01-13 (No Input 0t) * 
