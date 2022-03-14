@@ -1,10 +1,4 @@
 ----- Boss Information -----
- - felis(03.00) : 23:15:21 @ 2022-03-13 (Fake Spawn 1t) * 
- - talakin(10.00) : 23:36:17 @ 2022-03-13 (No Input 0t) * 
- - pannarod(05.00) : 23:38:38 @ 2022-03-13 (Fake Spawn 1t) * 
- - medusa(10.00) : 23:39:31 @ 2022-03-13 (No Input 0t) * 
- - sarka(10.00) : 23:41:13 @ 2022-03-13 (No Input 0t) * 
- - katan(10.00) : 23:46:29 @ 2022-03-13 (No Input 0t) * 
  - stonegeist(07.00) : 00:36:46 @ 2022-03-14 (No Input 0t) * 
  - tromba(07.00) : 00:48:03 @ 2022-03-14 (Fake Spawn 0t) * 
  - selu(12.00) : 02:10:00 @ 2022-03-14 (Fake Spawn 1t) * 
@@ -12,6 +6,7 @@
  - talkin(08.00) : 02:13:55 @ 2022-03-14 (Fake Spawn 0t) * 
  - matura(06.00) : 02:14:40 @ 2022-03-14 (Fake Spawn 1t) * 
  - balbo(12.00) : 02:15:03 @ 2022-03-14 (Fake Spawn 0t) * 
+ - felis(03.00) : 02:15:21 @ 2022-03-14 (Fake Spawn 2t) * 
  - mutated(08.00) : 02:15:51 @ 2022-03-14 (No Input 0t) * 
  - chertuba(06.00) : 03:34:04 @ 2022-03-14 (Fake Spawn 1t) * 
  - timitris(08.00) : 03:34:12 @ 2022-03-14 (No Input 0t) * 
@@ -24,8 +19,13 @@
  - dragonb(12.00) : 04:10:00 @ 2022-03-14 (Fake Spawn 1t) * 
  - antqueen(06.00) : 04:12:29 @ 2022-03-14 (Fake Spawn 2t) * 
  - kelsus(10.00) : 04:13:41 @ 2022-03-14 (Fake Spawn 2t) * 
+ - pannarod(05.00) : 04:38:38 @ 2022-03-14 (Fake Spawn 2t) * 
  - enkura(06.00) : 04:39:01 @ 2022-03-14 (Fake Spawn 3t) * 
  - core(10.00) : 06:12:25 @ 2022-03-14 (Fake Spawn 1t) * 
  - gareth(09.00) : 06:41:14 @ 2022-03-14 (Fake Spawn 2t) * 
  - behemoth(09.00) : 06:53:17 @ 2022-03-14 (No Input 0t) * 
+ - talakin(10.00) : 09:36:17 @ 2022-03-14 (No Input 1t) * 
+ - medusa(10.00) : 09:39:31 @ 2022-03-14 (No Input 1t) * 
+ - sarka(10.00) : 09:41:13 @ 2022-03-14 (No Input 1t) * 
+ - katan(10.00) : 09:46:29 @ 2022-03-14 (No Input 1t) * 
  - lily(12.00) : 10:18:31 @ 2022-03-14 (No Input 0t) * 
