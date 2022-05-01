@@ -1,9 +1,4 @@
 ----- Boss Information -----
- - core(10.00) : 23:17:26 @ 2022-04-30 (Fake Spawn 3t) * 
- - contaminated(08.00) : 23:38:54 @ 2022-04-30 (No Input 0t) * 
- - felis(03.00) : 23:44:11 @ 2022-04-30 (Fake Spawn 4t) * 
- - timiniel(08.00) : 23:45:50 @ 2022-04-30 (No Input 0t) * 
- - basila(04.00) : 00:34:03 @ 2022-05-01 (Fake Spawn 0t) * 
  - stonegeist(07.00) : 00:46:15 @ 2022-05-01 (No Input 0t) * 
  - repiro(07.00) : 01:38:17 @ 2022-05-01 (Fake Spawn 0t) * 
  - gareth(09.00) : 01:50:18 @ 2022-05-01 (Fake Spawn 0t) * 
@@ -13,6 +8,7 @@
  - valefar(06.00) : 02:29:21 @ 2022-05-01 (Fake Spawn 2t) * 
  - kelsus(10.00) : 02:34:16 @ 2022-05-01 (Fake Spawn 0t) * 
  - sarka(10.00) : 02:40:24 @ 2022-05-01 (No Input 1t) * 
+ - felis(03.00) : 02:44:11 @ 2022-05-01 (Fake Spawn 5t) * 
  - pannarod(05.00) : 02:44:20 @ 2022-05-01 (Fake Spawn 1t) * 
  - medusa(10.00) : 02:44:36 @ 2022-05-01 (No Input 0t) * 
  - katan(10.00) : 02:59:00 @ 2022-05-01 (No Input 0t) * 
@@ -24,9 +20,13 @@
  - lily(12.00) : 04:57:11 @ 2022-05-01 (No Input 0t) * 
  - tromba(07.00) : 05:36:37 @ 2022-05-01 (Fake Spawn 1t) * 
  - timitris(08.00) : 06:41:34 @ 2022-05-01 (No Input 2t) * 
+ - contaminated(08.00) : 07:38:54 @ 2022-05-01 (No Input 1t) * 
+ - timiniel(08.00) : 07:45:50 @ 2022-05-01 (No Input 1t) * 
  - balbo(12.00) : 08:28:26 @ 2022-05-01 (Fake Spawn 2t) * 
  - selu(12.00) : 08:30:37 @ 2022-05-01 (Fake Spawn 0t) * 
  - talakin(10.00) : 08:40:53 @ 2022-05-01 (No Input 3t) * 
+ - core(10.00) : 09:17:26 @ 2022-05-01 (Fake Spawn 4t) * 
  - dragonb(12.00) : 10:25:00 @ 2022-05-01 (Fake Spawn 8t) * 
  - pandraeed(12.00) : 10:37:06 @ 2022-05-01 (No Input 1t) * 
  - savan(12.00) : 10:40:24 @ 2022-05-01 (No Input 1t) * 
+ - basila(04.00) : 00:34:03 @ 2022-05-01 (Fake Spawn 0t) * 
