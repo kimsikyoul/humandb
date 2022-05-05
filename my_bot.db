@@ -1,10 +1,4 @@
 ----- Boss Information -----
- - timitris(08.00) : 06:05:21 @ 2022-05-05 (No Input 1t) * 
- - contaminated(08.00) : 06:27:00 @ 2022-05-05 (No Input 0t) * 
- - timiniel(08.00) : 06:41:34 @ 2022-05-05 (No Input 0t) * 
- - felis(03.00) : 07:07:48 @ 2022-05-05 (Fake Spawn 3t) * 
- - pannarod(05.00) : 07:30:39 @ 2022-05-05 (Fake Spawn 3t) * 
- - repiro(07.00) : 08:05:27 @ 2022-05-05 (Fake Spawn 1t) * 
  - enkura(06.00) : 08:27:24 @ 2022-05-05 (Fake Spawn 1t) * 
  - basila(04.00) : 08:30:00 @ 2022-05-05 (Fake Spawn 6t) * 
  - breka(06.00) : 08:30:54 @ 2022-05-05 (Fake Spawn 1t) * 
@@ -15,6 +9,7 @@
  - tromba(07.00) : 09:08:28 @ 2022-05-05 (Fake Spawn 4t) * 
  - chertuba(06.00) : 10:01:21 @ 2022-05-05 (Fake Spawn 5t) * 
  - valefar(06.00) : 10:02:32 @ 2022-05-05 (Fake Spawn 5t) * 
+ - felis(03.00) : 10:07:48 @ 2022-05-05 (Fake Spawn 4t) * 
  - gareth(09.00) : 10:08:25 @ 2022-05-05 (Fake Spawn 3t) * 
  - behemoth(09.00) : 10:17:11 @ 2022-05-05 (No Input 1t) * 
  - pandraeed(12.00) : 10:18:31 @ 2022-05-05 (No Input 0t) * 
@@ -26,12 +21,17 @@
  - antqueen(06.00) : 10:43:30 @ 2022-05-05 (Fake Spawn 1t) * 
  - dragonb(12.00) : 10:56:08 @ 2022-05-05 (Fake Spawn 1t) * 
  - talkin(08.00) : 12:28:17 @ 2022-05-05 (Fake Spawn 1t) * 
+ - pannarod(05.00) : 12:30:39 @ 2022-05-05 (Fake Spawn 4t) * 
  - mutated(08.00) : 12:47:25 @ 2022-05-05 (No Input 0t) * 
  - kelsus(10.00) : 14:03:04 @ 2022-05-05 (Fake Spawn 1t) * 
  - talakin(10.00) : 14:05:43 @ 2022-05-05 (No Input 1t) * 
  - sarka(10.00) : 14:07:02 @ 2022-05-05 (No Input 1t) * 
  - medusa(10.00) : 14:09:00 @ 2022-05-05 (No Input 0t) * 
  - katan(10.00) : 14:19:47 @ 2022-05-05 (No Input 0t) * 
+ - timitris(08.00) : 14:20:12 @ 2022-05-05 (No Input 0t) * 
+ - contaminated(08.00) : 14:27:00 @ 2022-05-05 (No Input 1t) * 
+ - timiniel(08.00) : 14:46:31 @ 2022-05-05 (No Input 0t) * 
+ - repiro(07.00) : 15:05:27 @ 2022-05-05 (Fake Spawn 2t) * 
  - coroon(12.00) : 16:40:37 @ 2022-05-05 (No Input 0t) * 
  - lily(12.00) : 16:44:31 @ 2022-05-05 (No Input 0t) * 
  - normus(18.00) : 22:33:33 @ 2022-05-05 (Fake Spawn 1t) * 
