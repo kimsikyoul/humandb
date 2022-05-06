@@ -1,7 +1,4 @@
 ----- Boss Information -----
- - contaminated(08.00) : 06:45:18 @ 2022-05-06 (No Input 1t) * 
- - timiniel(08.00) : 06:51:34 @ 2022-05-06 (No Input 1t) * 
- - felis(03.00) : 07:18:44 @ 2022-05-06 (Fake Spawn 3t) * 
  - basila(04.00) : 08:27:19 @ 2022-05-06 (Fake Spawn 0t) * 
  - enkura(06.00) : 08:28:32 @ 2022-05-06 (Fake Spawn 2t) * 
  - selu(12.00) : 08:31:38 @ 2022-05-06 (Fake Spawn 3t) * 
@@ -16,6 +13,7 @@
  - sarka(10.00) : 10:07:46 @ 2022-05-06 (No Input 1t) * 
  - medusa(10.00) : 10:10:00 @ 2022-05-06 (No Input 1t) * 
  - pandraeed(12.00) : 10:18:31 @ 2022-05-06 (No Input 2t) * 
+ - felis(03.00) : 10:18:44 @ 2022-05-06 (Fake Spawn 4t) * 
  - katan(10.00) : 10:21:42 @ 2022-05-06 (No Input 1t) * 
  - savan(12.00) : 10:25:56 @ 2022-05-06 (No Input 2t) * 
  - orfen(24.00) : 10:30:00 @ 2022-05-06 (Fake Spawn 2t) * 
@@ -23,16 +21,18 @@
  - antqueen(06.00) : 10:43:30 @ 2022-05-06 (Fake Spawn 5t) * 
  - shila(12.00) : 10:45:52 @ 2022-05-06 (Fake Spawn 1t) * 
  - dragonb(12.00) : 10:56:08 @ 2022-05-06 (Fake Spawn 3t) * 
- - repiro(07.00) : 12:08:30 @ 2022-05-06 (Fake Spawn 1t) * 
+ - repiro(07.00) : 12:14:17 @ 2022-05-06 (Fake Spawn 0t) * 
  - talkin(08.00) : 12:28:17 @ 2022-05-06 (Fake Spawn 4t) * 
  - mutated(08.00) : 12:52:59 @ 2022-05-06 (No Input 0t) * 
- - stonegeist(07.00) : 13:09:47 @ 2022-05-06 (No Input 3t) * 
+ - stonegeist(07.00) : 13:13:14 @ 2022-05-06 (No Input 0t) * 
  - gareth(09.00) : 13:18:00 @ 2022-05-06 (Fake Spawn 0t) * 
  - tromba(07.00) : 13:25:45 @ 2022-05-06 (Fake Spawn 2t) * 
  - behemoth(09.00) : 13:26:10 @ 2022-05-06 (No Input 0t) * 
- - timitris(08.00) : 14:21:14 @ 2022-05-06 (No Input 2t) * 
+ - timitris(08.00) : 14:23:09 @ 2022-05-06 (No Input 0t) * 
+ - contaminated(08.00) : 14:45:18 @ 2022-05-06 (No Input 2t) * 
+ - timiniel(08.00) : 15:24:59 @ 2022-05-06 (No Input 0t) * 
  - normus(18.00) : 16:33:33 @ 2022-05-06 (Fake Spawn 2t) * 
+ - core(10.00) : 16:33:42 @ 2022-05-06 (Fake Spawn 4t) * 
  - ukanba(18.00) : 16:34:42 @ 2022-05-06 (Fake Spawn 1t) * 
  - coroon(12.00) : 16:47:31 @ 2022-05-06 (No Input 0t) * 
  - lily(12.00) : 16:49:49 @ 2022-05-06 (No Input 0t) * 
- - core(10.00) : 06:33:42 @ 2022-05-06 (Fake Spawn 3t) * 
