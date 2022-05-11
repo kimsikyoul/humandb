@@ -1,11 +1,4 @@
 ----- Boss Information -----
- - breka(06.00) : 22:35:16 @ 2022-05-10 (Fake Spawn 0t) * 
- - chertuba(06.00) : 22:35:26 @ 2022-05-10 (Fake Spawn 0t) * 
- - valefar(06.00) : 22:35:31 @ 2022-05-10 (Fake Spawn 0t) * 
- - felis(03.00) : 22:37:35 @ 2022-05-10 (Fake Spawn 0t) * 
- - tromba(07.00) : 23:35:17 @ 2022-05-10 (Fake Spawn 0t) * 
- - repiro(07.00) : 23:35:57 @ 2022-05-10 (Fake Spawn 0t) * 
- - pannarod(05.00) : 23:45:14 @ 2022-05-10 (Fake Spawn 0t) * 
  - mutated(08.00) : 00:35:03 @ 2022-05-11 (No Input 0t) * 
  - antqueen(06.00) : 00:35:01 @ 2022-05-11 (Fake Spawn 0t) * 
  - coroon(12.00) : 00:35:04 @ 2022-05-11 (No Input 0t) * 
@@ -16,13 +9,17 @@
  - enkura(06.00) : 00:43:26 @ 2022-05-11 (Fake Spawn 0t) * 
  - matura(06.00) : 00:44:52 @ 2022-05-11 (Fake Spawn 0t) * 
  - gareth(09.00) : 01:35:35 @ 2022-05-11 (Fake Spawn 0t) * 
+ - felis(03.00) : 01:37:35 @ 2022-05-11 (Fake Spawn 1t) * 
  - stonegeist(07.00) : 01:44:27 @ 2022-05-11 (No Input 0t) * 
  - timitris(08.00) : 02:42:53 @ 2022-05-11 (No Input 0t) * 
  - timiniel(08.00) : 02:53:48 @ 2022-05-11 (No Input 0t) * 
  - contaminated(08.00) : 02:54:38 @ 2022-05-11 (No Input 0t) * 
  - behemoth(09.00) : 03:51:55 @ 2022-05-11 (No Input 0t) * 
+ - chertuba(06.00) : 04:35:26 @ 2022-05-11 (Fake Spawn 1t) * 
+ - valefar(06.00) : 04:35:31 @ 2022-05-11 (Fake Spawn 1t) * 
  - balbo(12.00) : 04:35:39 @ 2022-05-11 (Fake Spawn 0t) * 
  - selu(12.00) : 04:35:50 @ 2022-05-11 (Fake Spawn 0t) * 
+ - breka(06.00) : 04:36:07 @ 2022-05-11 (Fake Spawn 0t) * 
  - kelsus(10.00) : 04:42:20 @ 2022-05-11 (Fake Spawn 0t) * 
  - sarka(10.00) : 04:44:23 @ 2022-05-11 (No Input 0t) * 
  - talakin(10.00) : 04:44:32 @ 2022-05-11 (No Input 0t) * 
@@ -34,5 +31,8 @@
  - orfen(24.00) : 06:35:01 @ 2022-05-11 (Fake Spawn 0t) * 
  - moof(12.00) : 06:35:03 @ 2022-05-11 (Fake Spawn 0t) * 
  - ukanba(18.00) : 06:35:05 @ 2022-05-11 (Fake Spawn 0t) * 
+ - tromba(07.00) : 06:35:17 @ 2022-05-11 (Fake Spawn 1t) * 
+ - repiro(07.00) : 06:35:57 @ 2022-05-11 (Fake Spawn 1t) * 
  - pandraeed(12.00) : 06:43:32 @ 2022-05-11 (No Input 0t) * 
  - savan(12.00) : 06:46:08 @ 2022-05-11 (No Input 0t) * 
+ - pannarod(05.00) : 23:45:14 @ 2022-05-10 (Fake Spawn 0t) * 
