@@ -1,8 +1,4 @@
 ----- Boss Information -----
- - behemoth(09.00) : 19:32:44 @ 2022-05-13 (No Input 0t) * 
- - timiniel(08.00) : 19:38:18 @ 2022-05-13 (No Input 0t) * 
- - contaminated(08.00) : 19:39:52 @ 2022-05-13 (No Input 0t) * 
- - felis(03.00) : 19:46:37 @ 2022-05-13 (Fake Spawn 3t) * 
  - basila(04.00) : 20:40:03 @ 2022-05-13 (Fake Spawn 2t) * 
  - pannarod(05.00) : 21:56:10 @ 2022-05-13 (Fake Spawn 0t) * 
  - tromba(07.00) : 22:21:18 @ 2022-05-13 (Fake Spawn 0t) * 
@@ -11,6 +7,7 @@
  - chertuba(06.00) : 22:37:35 @ 2022-05-13 (Fake Spawn 2t) * 
  - valefar(06.00) : 22:37:52 @ 2022-05-13 (Fake Spawn 1t) * 
  - breka(06.00) : 22:39:38 @ 2022-05-13 (Fake Spawn 2t) * 
+ - felis(03.00) : 22:46:37 @ 2022-05-13 (Fake Spawn 4t) * 
  - dragonb(12.00) : 23:08:38 @ 2022-05-13 (Fake Spawn 0t) * 
  - stonegeist(07.00) : 23:57:21 @ 2022-05-13 (No Input 0t) * 
  - talkin(08.00) : 00:37:02 @ 2022-05-14 (Fake Spawn 7t) * 
@@ -27,12 +24,15 @@
  - sarka(10.00) : 02:52:42 @ 2022-05-14 (No Input 0t) * 
  - medusa(10.00) : 02:54:16 @ 2022-05-14 (No Input 0t) * 
  - katan(10.00) : 03:10:05 @ 2022-05-14 (No Input 0t) * 
+ - timiniel(08.00) : 03:38:18 @ 2022-05-14 (No Input 1t) * 
+ - contaminated(08.00) : 03:39:52 @ 2022-05-14 (No Input 1t) * 
+ - behemoth(09.00) : 04:32:44 @ 2022-05-14 (No Input 1t) * 
  - selu(12.00) : 04:44:45 @ 2022-05-14 (Fake Spawn 0t) * 
  - balbo(12.00) : 04:52:12 @ 2022-05-14 (Fake Spawn 0t) * 
  - orfen(24.00) : 06:35:01 @ 2022-05-14 (Fake Spawn 3t) * 
  - ukanba(18.00) : 06:39:44 @ 2022-05-14 (Fake Spawn 3t) * 
- - shila(12.00) : 06:44:04 @ 2022-05-14 (Fake Spawn 4t) * 
- - moof(12.00) : 06:54:56 @ 2022-05-14 (Fake Spawn 4t) * 
  - normus(18.00) : 06:56:20 @ 2022-05-14 (Fake Spawn 3t) * 
  - pandraeed(12.00) : 06:59:53 @ 2022-05-14 (No Input 0t) * 
- - savan(12.00) : 19:04:18 @ 2022-05-13 (No Input 1t) * 
+ - savan(12.00) : 07:04:18 @ 2022-05-14 (No Input 2t) * 
+ - shila(12.00) : 07:32:59 @ 2022-05-14 (Fake Spawn 0t) * 
+ - moof(12.00) : 07:36:28 @ 2022-05-14 (Fake Spawn 0t) * 
