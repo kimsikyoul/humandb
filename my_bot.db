@@ -1,11 +1,4 @@
 ----- Boss Information -----
- - core(10.00) : 04:35:02 @ 2022-05-15 (Fake Spawn 10t) * 
- - breka(06.00) : 04:40:27 @ 2022-05-15 (Fake Spawn 0t) * 
- - chertuba(06.00) : 04:41:09 @ 2022-05-15 (Fake Spawn 0t) * 
- - valefar(06.00) : 04:41:47 @ 2022-05-15 (Fake Spawn 2t) * 
- - basila(04.00) : 04:42:44 @ 2022-05-15 (Fake Spawn 2t) * 
- - selu(12.00) : 04:44:45 @ 2022-05-15 (Fake Spawn 2t) * 
- - gareth(09.00) : 04:47:07 @ 2022-05-15 (Fake Spawn 0t) * 
  - balbo(12.00) : 04:56:18 @ 2022-05-15 (Fake Spawn 0t) * 
  - felis(03.00) : 04:59:04 @ 2022-05-15 (Fake Spawn 1t) * 
  - orfen(24.00) : 06:35:01 @ 2022-05-15 (Fake Spawn 4t) * 
@@ -17,6 +10,7 @@
  - behemoth(09.00) : 07:48:59 @ 2022-05-15 (No Input 0t) * 
  - moof(12.00) : 08:07:12 @ 2022-05-15 (Fake Spawn 0t) * 
  - talkin(08.00) : 08:37:02 @ 2022-05-15 (Fake Spawn 11t) * 
+ - basila(04.00) : 08:42:44 @ 2022-05-15 (Fake Spawn 3t) * 
  - kelsus(10.00) : 08:45:44 @ 2022-05-15 (Fake Spawn 3t) * 
  - talakin(10.00) : 08:53:58 @ 2022-05-15 (No Input 0t) * 
  - sarka(10.00) : 08:55:02 @ 2022-05-15 (No Input 0t) * 
@@ -26,6 +20,9 @@
  - katan(10.00) : 09:20:38 @ 2022-05-15 (No Input 1t) * 
  - tromba(07.00) : 09:21:18 @ 2022-05-15 (Fake Spawn 5t) * 
  - repiro(07.00) : 09:27:43 @ 2022-05-15 (Fake Spawn 6t) * 
+ - breka(06.00) : 10:40:27 @ 2022-05-15 (Fake Spawn 1t) * 
+ - chertuba(06.00) : 10:41:09 @ 2022-05-15 (Fake Spawn 1t) * 
+ - valefar(06.00) : 10:41:47 @ 2022-05-15 (Fake Spawn 3t) * 
  - timitris(08.00) : 10:54:16 @ 2022-05-15 (No Input 1t) * 
  - stonegeist(07.00) : 11:03:25 @ 2022-05-15 (No Input 1t) * 
  - dragonb(12.00) : 11:38:25 @ 2022-05-15 (Fake Spawn 2t) * 
@@ -35,4 +32,7 @@
  - coroon(12.00) : 13:03:02 @ 2022-05-15 (No Input 1t) * 
  - normus(18.00) : 13:44:39 @ 2022-05-15 (Fake Spawn 1t) * 
  - shila(12.00) : 14:00:37 @ 2022-05-15 (Fake Spawn 2t) * 
+ - core(10.00) : 14:35:02 @ 2022-05-15 (Fake Spawn 11t) * 
+ - selu(12.00) : 16:44:45 @ 2022-05-15 (Fake Spawn 3t) * 
  - ukanba(18.00) : 19:02:10 @ 2022-05-15 (Fake Spawn 0t) * 
+ - gareth(09.00) : 04:47:07 @ 2022-05-15 (Fake Spawn 0t) * 
