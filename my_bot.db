@@ -1,8 +1,4 @@
 ----- Boss Information -----
- - timiniel(08.00) : 03:50:45 @ 2022-05-15 (No Input 1t) * 
- - contaminated(08.00) : 03:54:34 @ 2022-05-15 (No Input 0t) * 
- - pannarod(05.00) : 04:00:54 @ 2022-05-15 (Fake Spawn 0t) * 
- - stonegeist(07.00) : 04:03:25 @ 2022-05-15 (No Input 0t) * 
  - core(10.00) : 04:35:02 @ 2022-05-15 (Fake Spawn 10t) * 
  - breka(06.00) : 04:40:27 @ 2022-05-15 (Fake Spawn 0t) * 
  - chertuba(06.00) : 04:41:09 @ 2022-05-15 (Fake Spawn 0t) * 
@@ -26,13 +22,17 @@
  - sarka(10.00) : 08:55:02 @ 2022-05-15 (No Input 0t) * 
  - medusa(10.00) : 08:57:20 @ 2022-05-15 (No Input 0t) * 
  - mutated(08.00) : 09:00:04 @ 2022-05-15 (No Input 1t) * 
+ - pannarod(05.00) : 09:00:54 @ 2022-05-15 (Fake Spawn 1t) * 
  - katan(10.00) : 09:20:38 @ 2022-05-15 (No Input 1t) * 
  - tromba(07.00) : 09:21:18 @ 2022-05-15 (Fake Spawn 5t) * 
  - repiro(07.00) : 09:27:43 @ 2022-05-15 (Fake Spawn 6t) * 
+ - timitris(08.00) : 10:54:16 @ 2022-05-15 (No Input 1t) * 
+ - stonegeist(07.00) : 11:03:25 @ 2022-05-15 (No Input 1t) * 
  - dragonb(12.00) : 11:38:25 @ 2022-05-15 (Fake Spawn 2t) * 
+ - timiniel(08.00) : 11:50:45 @ 2022-05-15 (No Input 2t) * 
+ - contaminated(08.00) : 11:54:34 @ 2022-05-15 (No Input 1t) * 
  - lily(12.00) : 13:00:21 @ 2022-05-15 (No Input 1t) * 
  - coroon(12.00) : 13:03:02 @ 2022-05-15 (No Input 1t) * 
  - normus(18.00) : 13:44:39 @ 2022-05-15 (Fake Spawn 1t) * 
  - shila(12.00) : 14:00:37 @ 2022-05-15 (Fake Spawn 2t) * 
  - ukanba(18.00) : 19:02:10 @ 2022-05-15 (Fake Spawn 0t) * 
- - timitris(08.00) : 02:54:16 @ 2022-05-15 (No Input 0t) * 
