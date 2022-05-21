@@ -1,9 +1,4 @@
 ----- Boss Information -----
- - timiniel(08.00) : 23:33:24 @ 2022-05-20 (No Input 0t) * 
- - basila(04.00) : 00:52:17 @ 2022-05-21 (Fake Spawn 0t) * 
- - repiro(07.00) : 01:13:56 @ 2022-05-21 (Fake Spawn 3t) * 
- - felis(03.00) : 01:27:59 @ 2022-05-21 (Fake Spawn 1t) * 
- - pannarod(05.00) : 01:29:34 @ 2022-05-21 (Fake Spawn 0t) * 
  - valefar(06.00) : 02:46:12 @ 2022-05-21 (Fake Spawn 6t) * 
  - enkura(06.00) : 02:49:46 @ 2022-05-21 (Fake Spawn 1t) * 
  - stonegeist(07.00) : 03:31:31 @ 2022-05-21 (No Input 0t) * 
@@ -11,7 +6,10 @@
  - chertuba(06.00) : 04:20:55 @ 2022-05-21 (Fake Spawn 7t) * 
  - matura(06.00) : 04:23:01 @ 2022-05-21 (Fake Spawn 2t) * 
  - breka(06.00) : 04:26:21 @ 2022-05-21 (Fake Spawn 1t) * 
+ - felis(03.00) : 04:27:59 @ 2022-05-21 (Fake Spawn 2t) * 
  - talkin(08.00) : 04:46:11 @ 2022-05-21 (Fake Spawn 0t) * 
+ - basila(04.00) : 04:52:17 @ 2022-05-21 (Fake Spawn 1t) * 
+ - antqueen(06.00) : 05:02:29 @ 2022-05-21 (Fake Spawn 1t) * 
  - mutated(08.00) : 05:29:24 @ 2022-05-21 (No Input 1t) * 
  - lily(12.00) : 05:55:09 @ 2022-05-21 (No Input 0t) * 
  - coroon(12.00) : 05:55:18 @ 2022-05-21 (No Input 0t) * 
@@ -20,10 +18,13 @@
  - sarka(10.00) : 06:28:15 @ 2022-05-21 (No Input 0t) * 
  - timitris(08.00) : 06:28:52 @ 2022-05-21 (No Input 1t) * 
  - medusa(10.00) : 06:28:57 @ 2022-05-21 (No Input 0t) * 
+ - pannarod(05.00) : 06:29:34 @ 2022-05-21 (Fake Spawn 1t) * 
  - contaminated(08.00) : 06:43:26 @ 2022-05-21 (No Input 3t) * 
  - katan(10.00) : 06:45:13 @ 2022-05-21 (No Input 0t) * 
+ - timiniel(08.00) : 07:33:24 @ 2022-05-21 (No Input 1t) * 
  - behemoth(09.00) : 07:50:51 @ 2022-05-21 (No Input 1t) * 
  - gareth(09.00) : 07:52:28 @ 2022-05-21 (Fake Spawn 1t) * 
+ - repiro(07.00) : 08:13:56 @ 2022-05-21 (Fake Spawn 4t) * 
  - selu(12.00) : 08:45:19 @ 2022-05-21 (Fake Spawn 0t) * 
  - pandraeed(12.00) : 10:24:46 @ 2022-05-21 (No Input 1t) * 
  - balbo(12.00) : 10:26:00 @ 2022-05-21 (Fake Spawn 4t) * 
@@ -32,4 +33,3 @@
  - moof(12.00) : 10:47:18 @ 2022-05-21 (Fake Spawn 5t) * 
  - ukanba(18.00) : 10:54:46 @ 2022-05-21 (Fake Spawn 3t) * 
  - normus(18.00) : 11:13:12 @ 2022-05-21 (Fake Spawn 2t) * 
- - antqueen(06.00) : 23:02:29 @ 2022-05-20 (Fake Spawn 0t) * 
