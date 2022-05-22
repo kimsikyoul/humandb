@@ -1,7 +1,4 @@
 ----- Boss Information -----
- - contaminated(08.00) : 15:19:17 @ 2022-05-22 (No Input 1t) * 
- - repiro(07.00) : 15:23:33 @ 2022-05-22 (Fake Spawn 4t) * 
- - basila(04.00) : 15:54:02 @ 2022-05-22 (Fake Spawn 5t) * 
  - timiniel(08.00) : 16:04:55 @ 2022-05-22 (No Input 1t) * 
  - chertuba(06.00) : 16:23:10 @ 2022-05-22 (Fake Spawn 4t) * 
  - breka(06.00) : 16:26:21 @ 2022-05-22 (Fake Spawn 7t) * 
@@ -25,6 +22,7 @@
  - pandraeed(12.00) : 22:26:27 @ 2022-05-22 (No Input 1t) * 
  - balbo(12.00) : 22:30:33 @ 2022-05-22 (Fake Spawn 1t) * 
  - medusa(10.00) : 22:30:37 @ 2022-05-22 (No Input 2t) * 
+ - repiro(07.00) : 22:30:58 @ 2022-05-22 (Fake Spawn 0t) * 
  - sarka(10.00) : 22:31:49 @ 2022-05-22 (No Input 2t) * 
  - savan(12.00) : 22:31:51 @ 2022-05-22 (No Input 1t) * 
  - timitris(08.00) : 22:34:38 @ 2022-05-22 (No Input 0t) * 
@@ -32,4 +30,6 @@
  - moof(12.00) : 22:47:18 @ 2022-05-22 (Fake Spawn 8t) * 
  - katan(10.00) : 22:52:42 @ 2022-05-22 (No Input 2t) * 
  - normus(18.00) : 23:13:12 @ 2022-05-22 (Fake Spawn 4t) * 
+ - contaminated(08.00) : 23:31:54 @ 2022-05-22 (No Input 0t) * 
  - ukanba(18.00) : 23:34:25 @ 2022-05-22 (Fake Spawn 1t) * 
+ - basila(04.00) : 15:54:02 @ 2022-05-22 (Fake Spawn 5t) * 
