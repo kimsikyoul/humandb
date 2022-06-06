@@ -1,8 +1,4 @@
 ----- Boss Information -----
- - medusa(10.00) : 12:58:49 @ 2022-06-06 (No Input 1t) * 
- - mutated(08.00) : 12:59:29 @ 2022-06-06 (No Input 1t) * 
- - pannarod(05.00) : 12:59:58 @ 2022-06-06 (Fake Spawn 0t) * 
- - tromba(07.00) : 13:02:55 @ 2022-06-06 (Fake Spawn 1t) * 
  - katan(10.00) : 13:18:52 @ 2022-06-06 (No Input 1t) * 
  - chertuba(06.00) : 14:37:25 @ 2022-06-06 (Fake Spawn 0t) * 
  - matura(06.00) : 14:42:10 @ 2022-06-06 (Fake Spawn 0t) * 
@@ -14,6 +10,7 @@
  - haff(20.00) : 15:46:02 @ 2022-06-06 (Fake Spawn 1t) * 
  - repiro(07.00) : 15:51:35 @ 2022-06-06 (Fake Spawn 0t) * 
  - timiniel(08.00) : 15:59:23 @ 2022-06-06 (No Input 0t) * 
+ - basila(04.00) : 16:48:46 @ 2022-06-06 (Fake Spawn 9t) * 
  - valefar(06.00) : 16:50:02 @ 2022-06-06 (Fake Spawn 0t) * 
  - breka(06.00) : 16:52:49 @ 2022-06-06 (Fake Spawn 3t) * 
  - enkura(06.00) : 16:53:58 @ 2022-06-06 (Fake Spawn 3t) * 
@@ -27,12 +24,14 @@
  - core(10.00) : 19:10:27 @ 2022-06-06 (Fake Spawn 0t) * 
  - behemoth(09.00) : 20:36:42 @ 2022-06-06 (No Input 0t) * 
  - glaki(08.00) : 20:56:46 @ 2022-06-06 (No Input 0t) * 
+ - mutated(08.00) : 21:03:06 @ 2022-06-06 (No Input 0t) * 
  - landor(09.00) : 21:39:44 @ 2022-06-06 (No Input 0t) * 
  - kelsus(10.00) : 22:48:21 @ 2022-06-06 (Fake Spawn 2t) * 
  - balbo(12.00) : 22:48:22 @ 2022-06-06 (Fake Spawn 7t) * 
  - ukanba(18.00) : 22:51:55 @ 2022-06-06 (Fake Spawn 1t) * 
  - talakin(10.00) : 22:55:20 @ 2022-06-06 (No Input 0t) * 
  - sarka(10.00) : 22:57:43 @ 2022-06-06 (No Input 0t) * 
+ - medusa(10.00) : 22:59:52 @ 2022-06-06 (No Input 0t) * 
  - shila(12.00) : 23:00:28 @ 2022-06-06 (Fake Spawn 1t) * 
  - selu(12.00) : 23:02:43 @ 2022-06-06 (Fake Spawn 1t) * 
  - normus(18.00) : 23:22:03 @ 2022-06-06 (Fake Spawn 1t) * 
@@ -43,4 +42,5 @@
  - cabrio(12.00) : 23:52:55 @ 2022-06-06 (Fake Spawn 2t) * 
  - dragonb(12.00) : 00:14:05 @ 2022-06-07 (Fake Spawn 2t) * 
  - olkuth(24.00) : 10:27:00 @ 2022-06-07 (Fake Spawn 5t) * 
- - basila(04.00) : 12:48:46 @ 2022-06-06 (Fake Spawn 8t) * 
+ - pannarod(05.00) : 12:59:58 @ 2022-06-06 (Fake Spawn 0t) * 
+ - tromba(07.00) : 13:02:55 @ 2022-06-06 (Fake Spawn 1t) * 
