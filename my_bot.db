@@ -1,10 +1,4 @@
 ----- Boss Information -----
- - felis(03.00) : 15:37:19 @ 2022-06-14 (Fake Spawn 6t) * 
- - flynt(05.00) : 15:41:42 @ 2022-06-14 (Fake Spawn 0t) * 
- - pannarod(05.00) : 15:42:53 @ 2022-06-14 (Fake Spawn 0t) * 
- - hisilrome(06.00) : 16:24:27 @ 2022-06-14 (Fake Spawn 0t) * 
- - core(10.00) : 16:27:00 @ 2022-06-14 (Fake Spawn 16t) * 
- - selu(12.00) : 16:48:33 @ 2022-06-14 (Fake Spawn 3t) * 
  - basila(04.00) : 16:55:25 @ 2022-06-14 (Fake Spawn 19t) * 
  - breka(06.00) : 17:05:20 @ 2022-06-14 (Fake Spawn 4t) * 
  - chertuba(06.00) : 17:05:31 @ 2022-06-14 (Fake Spawn 4t) * 
@@ -18,6 +12,7 @@
  - timitris(08.00) : 18:16:31 @ 2022-06-14 (No Input 0t) * 
  - savan(12.00) : 18:24:23 @ 2022-06-14 (No Input 1t) * 
  - balbo(12.00) : 18:26:50 @ 2022-06-14 (Fake Spawn 1t) * 
+ - felis(03.00) : 18:37:19 @ 2022-06-14 (Fake Spawn 7t) * 
  - stonegeist(07.00) : 18:47:52 @ 2022-06-14 (No Input 2t) * 
  - repiro(07.00) : 18:48:39 @ 2022-06-14 (Fake Spawn 3t) * 
  - shila(12.00) : 19:31:24 @ 2022-06-14 (Fake Spawn 1t) * 
@@ -30,11 +25,14 @@
  - talakin(10.00) : 20:16:06 @ 2022-06-14 (No Input 0t) * 
  - medusa(10.00) : 20:21:31 @ 2022-06-14 (No Input 0t) * 
  - gareth(09.00) : 20:27:18 @ 2022-06-14 (Fake Spawn 2t) * 
+ - flynt(05.00) : 20:41:42 @ 2022-06-14 (Fake Spawn 1t) * 
+ - pannarod(05.00) : 20:42:53 @ 2022-06-14 (Fake Spawn 1t) * 
  - orfen(24.00) : 20:48:39 @ 2022-06-14 (Fake Spawn 1t) * 
  - glaki(08.00) : 21:47:38 @ 2022-06-14 (No Input 3t) * 
  - katan(10.00) : 21:57:28 @ 2022-06-14 (No Input 2t) * 
  - behemoth(09.00) : 22:08:42 @ 2022-06-14 (No Input 2t) * 
  - olkuth(24.00) : 22:29:50 @ 2022-06-14 (Fake Spawn 1t) * 
+ - hisilrome(06.00) : 22:48:59 @ 2022-06-14 (Fake Spawn 0t) * 
  - landor(09.00) : 23:00:10 @ 2022-06-14 (No Input 0t) * 
  - dragonb(12.00) : 00:18:26 @ 2022-06-15 (Fake Spawn 2t) * 
  - mirror(11.00) : 01:07:33 @ 2022-06-15 (No Input 0t) * 
@@ -42,6 +40,8 @@
  - normus(18.00) : 01:24:57 @ 2022-06-15 (Fake Spawn 1t) * 
  - lily(12.00) : 01:29:32 @ 2022-06-15 (No Input 2t) * 
  - coroon(12.00) : 01:34:08 @ 2022-06-15 (No Input 2t) * 
+ - cabrio(12.00) : 02:08:15 @ 2022-06-15 (Fake Spawn 2t) * 
  - andras(15.00) : 02:13:04 @ 2022-06-15 (Fake Spawn 3t) * 
+ - core(10.00) : 02:27:00 @ 2022-06-15 (Fake Spawn 17t) * 
+ - selu(12.00) : 04:50:27 @ 2022-06-15 (Fake Spawn 0t) * 
  - haff(20.00) : 09:26:30 @ 2022-06-15 (Fake Spawn 2t) * 
- - cabrio(12.00) : 14:08:15 @ 2022-06-14 (Fake Spawn 1t) * 
