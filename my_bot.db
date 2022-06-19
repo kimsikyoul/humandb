@@ -1,8 +1,4 @@
 ----- Boss Information -----
- - timitris(08.00) : 14:30:17 @ 2022-06-19 (No Input 2t) * 
- - breka(06.00) : 14:47:40 @ 2022-06-19 (Fake Spawn 1t) * 
- - felis(03.00) : 14:49:38 @ 2022-06-19 (Fake Spawn 4t) * 
- - valefar(06.00) : 15:13:04 @ 2022-06-19 (Fake Spawn 3t) * 
  - pannarod(05.00) : 15:39:29 @ 2022-06-19 (Fake Spawn 2t) * 
  - hisilrome(06.00) : 15:47:29 @ 2022-06-19 (Fake Spawn 3t) * 
  - contaminated(08.00) : 15:50:04 @ 2022-06-19 (No Input 1t) * 
@@ -14,6 +10,7 @@
  - lily(12.00) : 17:03:42 @ 2022-06-19 (No Input 1t) * 
  - antqueen(06.00) : 17:39:46 @ 2022-06-19 (Fake Spawn 5t) * 
  - coroon(12.00) : 17:44:02 @ 2022-06-19 (No Input 2t) * 
+ - felis(03.00) : 17:49:38 @ 2022-06-19 (Fake Spawn 5t) * 
  - andras(15.00) : 17:55:46 @ 2022-06-19 (Fake Spawn 1t) * 
  - gareth(09.00) : 18:18:40 @ 2022-06-19 (Fake Spawn 2t) * 
  - flynt(05.00) : 18:51:07 @ 2022-06-19 (Fake Spawn 3t) * 
@@ -23,7 +20,11 @@
  - repiro(07.00) : 20:19:41 @ 2022-06-19 (Fake Spawn 0t) * 
  - kelsus(10.00) : 20:30:53 @ 2022-06-19 (Fake Spawn 11t) * 
  - talkin(08.00) : 20:39:36 @ 2022-06-19 (Fake Spawn 3t) * 
+ - breka(06.00) : 20:47:40 @ 2022-06-19 (Fake Spawn 2t) * 
  - mutated(08.00) : 21:06:27 @ 2022-06-19 (No Input 0t) * 
+ - valefar(06.00) : 21:13:04 @ 2022-06-19 (Fake Spawn 4t) * 
+ - tromba(07.00) : 21:18:24 @ 2022-06-19 (Fake Spawn 2t) * 
+ - stonegeist(07.00) : 21:20:49 @ 2022-06-19 (No Input 2t) * 
  - landor(09.00) : 21:59:47 @ 2022-06-19 (No Input 0t) * 
  - glaki(08.00) : 22:00:25 @ 2022-06-19 (No Input 3t) * 
  - talakin(10.00) : 22:12:15 @ 2022-06-19 (No Input 1t) * 
@@ -31,6 +32,7 @@
  - sarka(10.00) : 22:14:09 @ 2022-06-19 (No Input 1t) * 
  - savan(12.00) : 22:18:16 @ 2022-06-19 (No Input 2t) * 
  - medusa(10.00) : 22:18:52 @ 2022-06-19 (No Input 1t) * 
+ - timitris(08.00) : 22:30:17 @ 2022-06-19 (No Input 3t) * 
  - balbo(12.00) : 22:37:57 @ 2022-06-19 (Fake Spawn 7t) * 
  - ukanba(18.00) : 22:41:35 @ 2022-06-19 (Fake Spawn 2t) * 
  - normus(18.00) : 22:50:45 @ 2022-06-19 (Fake Spawn 2t) * 
@@ -41,7 +43,5 @@
  - mirror(11.00) : 23:53:20 @ 2022-06-19 (No Input 0t) * 
  - orfen(24.00) : 00:11:58 @ 2022-06-20 (Fake Spawn 0t) * 
  - dragonb(12.00) : 01:23:20 @ 2022-06-20 (Fake Spawn 1t) * 
+ - selu(12.00) : 02:22:28 @ 2022-06-20 (Fake Spawn 9t) * 
  - haff(20.00) : 04:16:42 @ 2022-06-20 (Fake Spawn 3t) * 
- - tromba(07.00) : 14:18:24 @ 2022-06-19 (Fake Spawn 1t) * 
- - stonegeist(07.00) : 14:20:49 @ 2022-06-19 (No Input 1t) * 
- - selu(12.00) : 14:22:28 @ 2022-06-19 (Fake Spawn 8t) * 
