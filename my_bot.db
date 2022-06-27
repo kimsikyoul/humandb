@@ -1,19 +1,4 @@
 ----- Boss Information -----
- - contaminated(08.00) : 15:47:36 @ 2022-06-27 (No Input 0t) * 
- - core(10.00) : 15:52:43 @ 2022-06-27 (Fake Spawn 3t) * 
- - valefar(06.00) : 15:55:18 @ 2022-06-27 (Fake Spawn 2t) * 
- - breka(06.00) : 16:01:21 @ 2022-06-27 (Fake Spawn 0t) * 
- - samuel(12.00) : 16:06:43 @ 2022-06-27 (No Input 1t) * 
- - felis(03.00) : 16:17:56 @ 2022-06-27 (Fake Spawn 14t) * 
- - timiniel(08.00) : 16:22:26 @ 2022-06-27 (No Input 0t) * 
- - glaki(08.00) : 16:25:04 @ 2022-06-27 (No Input 2t) * 
- - kelsus(10.00) : 16:38:22 @ 2022-06-27 (Fake Spawn 3t) * 
- - basila(04.00) : 16:42:19 @ 2022-06-27 (Fake Spawn 11t) * 
- - ukanba(18.00) : 16:49:00 @ 2022-06-27 (Fake Spawn 0t) * 
- - tromba(07.00) : 17:07:50 @ 2022-06-27 (Fake Spawn 3t) * 
- - normus(18.00) : 17:11:57 @ 2022-06-27 (Fake Spawn 0t) * 
- - pannarod(05.00) : 17:18:43 @ 2022-06-27 (Fake Spawn 0t) * 
- - antqueen(06.00) : 17:42:48 @ 2022-06-27 (Fake Spawn 0t) * 
  - lily(12.00) : 17:58:31 @ 2022-06-27 (No Input 0t) * 
  - coroon(12.00) : 17:59:06 @ 2022-06-27 (No Input 1t) * 
  - talakin(10.00) : 18:09:25 @ 2022-06-27 (No Input 0t) * 
@@ -24,10 +9,12 @@
  - repiro(07.00) : 18:35:14 @ 2022-06-27 (Fake Spawn 1t) * 
  - flynt(05.00) : 18:40:29 @ 2022-06-27 (Fake Spawn 5t) * 
  - katan(10.00) : 18:47:10 @ 2022-06-27 (No Input 0t) * 
+ - felis(03.00) : 19:17:56 @ 2022-06-27 (Fake Spawn 15t) * 
  - hisilrome(06.00) : 19:56:20 @ 2022-06-27 (Fake Spawn 4t) * 
  - cabrio(12.00) : 20:31:24 @ 2022-06-27 (Fake Spawn 1t) * 
  - enkura(06.00) : 20:39:49 @ 2022-06-27 (Fake Spawn 1t) * 
  - selu(12.00) : 20:41:10 @ 2022-06-27 (Fake Spawn 6t) * 
+ - basila(04.00) : 20:42:19 @ 2022-06-27 (Fake Spawn 12t) * 
  - talkin(08.00) : 20:44:03 @ 2022-06-27 (Fake Spawn 1t) * 
  - chertuba(06.00) : 20:52:41 @ 2022-06-27 (Fake Spawn 1t) * 
  - orfen(24.00) : 20:53:52 @ 2022-06-27 (Fake Spawn 3t) * 
@@ -37,11 +24,24 @@
  - gareth(09.00) : 21:27:10 @ 2022-06-27 (Fake Spawn 3t) * 
  - mutated(08.00) : 21:33:52 @ 2022-06-27 (No Input 0t) * 
  - pandraeed(12.00) : 21:58:38 @ 2022-06-27 (No Input 0t) * 
+ - valefar(06.00) : 22:01:56 @ 2022-06-27 (Fake Spawn 0t) * 
+ - breka(06.00) : 22:02:40 @ 2022-06-27 (Fake Spawn 0t) * 
  - timitris(08.00) : 22:06:02 @ 2022-06-27 (No Input 0t) * 
+ - pannarod(05.00) : 22:19:10 @ 2022-06-27 (Fake Spawn 0t) * 
  - savan(12.00) : 22:21:30 @ 2022-06-27 (No Input 0t) * 
  - shila(12.00) : 22:59:47 @ 2022-06-27 (Fake Spawn 0t) * 
  - moof(12.00) : 23:03:02 @ 2022-06-27 (Fake Spawn 0t) * 
  - olkuth(24.00) : 23:33:16 @ 2022-06-27 (Fake Spawn 1t) * 
+ - antqueen(06.00) : 23:42:48 @ 2022-06-27 (Fake Spawn 1t) * 
+ - contaminated(08.00) : 23:50:53 @ 2022-06-27 (No Input 0t) * 
  - behemoth(09.00) : 23:56:19 @ 2022-06-27 (No Input 0t) * 
- - dragonb(12.00) : 01:23:43 @ 2022-06-28 (Fake Spawn 1t) * 
+ - tromba(07.00) : 00:21:48 @ 2022-06-28 (Fake Spawn 0t) * 
+ - timiniel(08.00) : 00:22:26 @ 2022-06-28 (No Input 1t) * 
+ - glaki(08.00) : 00:25:04 @ 2022-06-28 (No Input 3t) * 
+ - core(10.00) : 02:06:47 @ 2022-06-28 (Fake Spawn 0t) * 
  - andras(15.00) : 02:29:31 @ 2022-06-28 (Fake Spawn 4t) * 
+ - kelsus(10.00) : 02:38:22 @ 2022-06-28 (Fake Spawn 4t) * 
+ - samuel(12.00) : 04:06:43 @ 2022-06-28 (No Input 2t) * 
+ - dragonb(12.00) : 04:48:16 @ 2022-06-28 (Fake Spawn 0t) * 
+ - ukanba(18.00) : 10:49:00 @ 2022-06-28 (Fake Spawn 1t) * 
+ - normus(18.00) : 11:11:57 @ 2022-06-28 (Fake Spawn 1t) * 
