@@ -1,13 +1,4 @@
 ----- Boss Information -----
- - timiniel(08.00) : 16:28:22 @ 2022-06-30 (No Input 0t) * 
- - breka(06.00) : 17:35:22 @ 2022-06-30 (Fake Spawn 0t) * 
- - valefar(06.00) : 17:42:37 @ 2022-06-30 (Fake Spawn 0t) * 
- - matura(06.00) : 17:43:07 @ 2022-06-30 (Fake Spawn 0t) * 
- - chertuba(06.00) : 17:46:11 @ 2022-06-30 (Fake Spawn 0t) * 
- - enkura(06.00) : 17:53:21 @ 2022-06-30 (Fake Spawn 4t) * 
- - felis(03.00) : 17:53:53 @ 2022-06-30 (Fake Spawn 1t) * 
- - tromba(07.00) : 17:55:20 @ 2022-06-30 (Fake Spawn 5t) * 
- - hisilrome(06.00) : 17:56:12 @ 2022-06-30 (Fake Spawn 0t) * 
  - stonegeist(07.00) : 18:16:02 @ 2022-06-30 (No Input 0t) * 
  - repiro(07.00) : 18:16:30 @ 2022-06-30 (Fake Spawn 1t) * 
  - antqueen(06.00) : 19:50:11 @ 2022-06-30 (Fake Spawn 4t) * 
@@ -17,9 +8,16 @@
  - glaki(08.00) : 20:28:35 @ 2022-06-30 (No Input 0t) * 
  - pannarod(05.00) : 20:37:51 @ 2022-06-30 (Fake Spawn 4t) * 
  - gareth(09.00) : 20:42:10 @ 2022-06-30 (Fake Spawn 1t) * 
+ - felis(03.00) : 20:53:53 @ 2022-06-30 (Fake Spawn 2t) * 
  - behemoth(09.00) : 21:17:40 @ 2022-06-30 (No Input 0t) * 
  - mirror(11.00) : 23:04:18 @ 2022-06-30 (No Input 0t) * 
+ - breka(06.00) : 23:35:32 @ 2022-06-30 (Fake Spawn 0t) * 
+ - valefar(06.00) : 23:42:37 @ 2022-06-30 (Fake Spawn 1t) * 
+ - matura(06.00) : 23:43:19 @ 2022-06-30 (Fake Spawn 0t) * 
+ - chertuba(06.00) : 23:46:00 @ 2022-06-30 (Fake Spawn 0t) * 
  - samuel(12.00) : 23:51:54 @ 2022-06-30 (No Input 0t) * 
+ - enkura(06.00) : 23:55:43 @ 2022-06-30 (Fake Spawn 0t) * 
+ - hisilrome(06.00) : 23:56:12 @ 2022-06-30 (Fake Spawn 1t) * 
  - pandraeed(12.00) : 23:56:37 @ 2022-06-30 (No Input 0t) * 
  - core(10.00) : 23:57:43 @ 2022-06-30 (Fake Spawn 1t) * 
  - savan(12.00) : 23:58:36 @ 2022-06-30 (No Input 0t) * 
@@ -27,8 +25,10 @@
  - talkin(08.00) : 00:00:52 @ 2022-07-01 (Fake Spawn 3t) * 
  - mutated(08.00) : 00:04:38 @ 2022-07-01 (No Input 0t) * 
  - contaminated(08.00) : 00:17:37 @ 2022-07-01 (No Input 0t) * 
+ - timiniel(08.00) : 00:31:14 @ 2022-07-01 (No Input 0t) * 
+ - tromba(07.00) : 00:55:20 @ 2022-07-01 (Fake Spawn 6t) * 
  - landor(09.00) : 01:09:10 @ 2022-07-01 (No Input 0t) * 
- - kelsus(10.00) : 01:37:35 @ 2022-07-01 (Fake Spawn 2t) * 
+ - kelsus(10.00) : 01:37:39 @ 2022-07-01 (Fake Spawn 0t) * 
  - ukanba(18.00) : 01:41:50 @ 2022-07-01 (Fake Spawn 0t) * 
  - shila(12.00) : 01:43:31 @ 2022-07-01 (Fake Spawn 0t) * 
  - moof(12.00) : 01:47:04 @ 2022-07-01 (Fake Spawn 0t) * 
