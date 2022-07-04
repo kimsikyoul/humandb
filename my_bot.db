@@ -1,29 +1,4 @@
 ----- Boss Information -----
- - tromba(07.00) : 23:26:39 @ 2022-07-03 (Fake Spawn 3t) * 
- - stonegeist(07.00) : 23:27:44 @ 2022-07-03 (No Input 0t) * 
- - repiro(07.00) : 23:28:22 @ 2022-07-03 (Fake Spawn 3t) * 
- - selu(12.00) : 23:36:52 @ 2022-07-03 (Fake Spawn 5t) * 
- - kelsus(10.00) : 23:38:49 @ 2022-07-03 (Fake Spawn 6t) * 
- - breka(06.00) : 23:38:48 @ 2022-07-03 (Fake Spawn 8t) * 
- - pannarod(05.00) : 23:41:06 @ 2022-07-03 (Fake Spawn 9t) * 
- - balbo(12.00) : 23:43:18 @ 2022-07-03 (Fake Spawn 2t) * 
- - matura(06.00) : 23:46:31 @ 2022-07-03 (Fake Spawn 8t) * 
- - valefar(06.00) : 23:48:36 @ 2022-07-03 (Fake Spawn 1t) * 
- - chertuba(06.00) : 23:49:22 @ 2022-07-03 (Fake Spawn 6t) * 
- - basila(04.00) : 23:56:49 @ 2022-07-03 (Fake Spawn 6t) * 
- - enkura(06.00) : 23:57:21 @ 2022-07-03 (Fake Spawn 8t) * 
- - felis(03.00) : 23:57:29 @ 2022-07-03 (Fake Spawn 12t) * 
- - pandraeed(12.00) : 00:01:14 @ 2022-07-04 (No Input 0t) * 
- - talakin(10.00) : 00:01:50 @ 2022-07-04 (No Input 0t) * 
- - sarka(10.00) : 00:02:20 @ 2022-07-04 (No Input 0t) * 
- - medusa(10.00) : 00:08:40 @ 2022-07-04 (No Input 0t) * 
- - savan(12.00) : 00:08:42 @ 2022-07-04 (No Input 0t) * 
- - timitris(08.00) : 00:11:33 @ 2022-07-04 (No Input 0t) * 
- - talkin(08.00) : 00:20:29 @ 2022-07-04 (Fake Spawn 0t) * 
- - mutated(08.00) : 00:30:26 @ 2022-07-04 (No Input 0t) * 
- - katan(10.00) : 00:34:11 @ 2022-07-04 (No Input 0t) * 
- - glaki(08.00) : 00:42:32 @ 2022-07-04 (No Input 4t) * 
- - contaminated(08.00) : 00:47:24 @ 2022-07-04 (No Input 0t) * 
  - timiniel(08.00) : 01:46:31 @ 2022-07-04 (No Input 0t) * 
  - ukanba(18.00) : 01:52:58 @ 2022-07-04 (Fake Spawn 0t) * 
  - flynt(05.00) : 01:54:35 @ 2022-07-04 (Fake Spawn 10t) * 
@@ -34,14 +9,39 @@
  - samuel(12.00) : 02:48:49 @ 2022-07-04 (No Input 0t) * 
  - hisilrome(06.00) : 02:52:09 @ 2022-07-04 (Fake Spawn 1t) * 
  - dragonb(12.00) : 02:54:59 @ 2022-07-04 (Fake Spawn 7t) * 
+ - felis(03.00) : 02:57:29 @ 2022-07-04 (Fake Spawn 13t) * 
+ - basila(04.00) : 03:56:49 @ 2022-07-04 (Fake Spawn 7t) * 
+ - pannarod(05.00) : 04:41:06 @ 2022-07-04 (Fake Spawn 10t) * 
  - mirror(11.00) : 05:00:58 @ 2022-07-04 (No Input 1t) * 
+ - breka(06.00) : 05:38:48 @ 2022-07-04 (Fake Spawn 9t) * 
+ - matura(06.00) : 05:46:31 @ 2022-07-04 (Fake Spawn 9t) * 
+ - valefar(06.00) : 05:48:36 @ 2022-07-04 (Fake Spawn 2t) * 
+ - chertuba(06.00) : 05:49:22 @ 2022-07-04 (Fake Spawn 7t) * 
  - gareth(09.00) : 05:51:24 @ 2022-07-04 (Fake Spawn 0t) * 
+ - enkura(06.00) : 05:57:21 @ 2022-07-04 (Fake Spawn 9t) * 
+ - tromba(07.00) : 06:26:39 @ 2022-07-04 (Fake Spawn 4t) * 
+ - stonegeist(07.00) : 06:27:44 @ 2022-07-04 (No Input 1t) * 
+ - repiro(07.00) : 06:28:22 @ 2022-07-04 (Fake Spawn 4t) * 
  - andras(15.00) : 06:50:46 @ 2022-07-04 (Fake Spawn 3t) * 
  - behemoth(09.00) : 06:58:37 @ 2022-07-04 (No Input 0t) * 
  - cabrio(12.00) : 06:59:57 @ 2022-07-04 (Fake Spawn 4t) * 
  - landor(09.00) : 07:07:11 @ 2022-07-04 (No Input 0t) * 
  - core(10.00) : 07:57:43 @ 2022-07-04 (Fake Spawn 9t) * 
+ - timitris(08.00) : 08:11:33 @ 2022-07-04 (No Input 1t) * 
+ - talkin(08.00) : 08:20:29 @ 2022-07-04 (Fake Spawn 1t) * 
+ - mutated(08.00) : 08:30:26 @ 2022-07-04 (No Input 1t) * 
  - lily(12.00) : 08:35:59 @ 2022-07-04 (No Input 0t) * 
+ - glaki(08.00) : 08:42:32 @ 2022-07-04 (No Input 5t) * 
  - coroon(12.00) : 08:46:41 @ 2022-07-04 (No Input 0t) * 
+ - contaminated(08.00) : 08:47:24 @ 2022-07-04 (No Input 1t) * 
  - haff(20.00) : 09:04:07 @ 2022-07-04 (Fake Spawn 0t) * 
+ - kelsus(10.00) : 09:38:49 @ 2022-07-04 (Fake Spawn 7t) * 
+ - talakin(10.00) : 10:01:50 @ 2022-07-04 (No Input 1t) * 
+ - sarka(10.00) : 10:02:20 @ 2022-07-04 (No Input 1t) * 
+ - medusa(10.00) : 10:08:40 @ 2022-07-04 (No Input 1t) * 
+ - katan(10.00) : 10:34:11 @ 2022-07-04 (No Input 1t) * 
+ - selu(12.00) : 11:36:52 @ 2022-07-04 (Fake Spawn 6t) * 
+ - balbo(12.00) : 11:43:18 @ 2022-07-04 (Fake Spawn 3t) * 
+ - pandraeed(12.00) : 12:01:14 @ 2022-07-04 (No Input 1t) * 
+ - savan(12.00) : 12:08:42 @ 2022-07-04 (No Input 1t) * 
  - orfen(24.00) : 15:23:51 @ 2022-07-04 (Fake Spawn 4t) * 
