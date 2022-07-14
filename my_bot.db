@@ -1,16 +1,4 @@
 ----- Boss Information -----
- - timitris(08.00) : 03:08:53 @ 2022-07-14 (No Input 0t) * 
- - flynt(05.00) : 03:15:06 @ 2022-07-14 (Fake Spawn 0t) * 
- - contaminated(08.00) : 03:24:05 @ 2022-07-14 (No Input 0t) * 
- - timiniel(08.00) : 03:35:00 @ 2022-07-14 (No Input 0t) * 
- - samuel(12.00) : 03:36:04 @ 2022-07-14 (No Input 0t) * 
- - basila(04.00) : 03:58:51 @ 2022-07-14 (Fake Spawn 2t) * 
- - enkura(06.00) : 03:59:40 @ 2022-07-14 (Fake Spawn 1t) * 
- - valefar(06.00) : 04:00:38 @ 2022-07-14 (Fake Spawn 1t) * 
- - matura(06.00) : 04:01:07 @ 2022-07-14 (Fake Spawn 1t) * 
- - balbo(12.00) : 04:04:48 @ 2022-07-14 (Fake Spawn 0t) * 
- - hisilrome(06.00) : 04:08:40 @ 2022-07-14 (Fake Spawn 0t) * 
- - felis(03.00) : 04:09:29 @ 2022-07-14 (Fake Spawn 3t) * 
  - core(10.00) : 06:00:00 @ 2022-07-14 (Fake Spawn 0t) * 
  - shila(12.00) : 06:03:19 @ 2022-07-14 (Fake Spawn 0t) * 
  - moof(12.00) : 06:06:52 @ 2022-07-14 (Fake Spawn 0t) * 
@@ -25,18 +13,30 @@
  - chertuba(06.00) : 07:02:24 @ 2022-07-14 (Fake Spawn 5t) * 
  - pandraeed(12.00) : 07:07:58 @ 2022-07-14 (No Input 1t) * 
  - breka(06.00) : 07:09:08 @ 2022-07-14 (Fake Spawn 1t) * 
+ - felis(03.00) : 07:09:29 @ 2022-07-14 (Fake Spawn 4t) * 
  - savan(12.00) : 07:12:41 @ 2022-07-14 (No Input 0t) * 
  - landor(09.00) : 07:13:49 @ 2022-07-14 (No Input 0t) * 
  - selu(12.00) : 07:18:09 @ 2022-07-14 (Fake Spawn 0t) * 
  - behemoth(09.00) : 07:25:51 @ 2022-07-14 (No Input 0t) * 
  - cabrio(12.00) : 07:48:26 @ 2022-07-14 (Fake Spawn 0t) * 
+ - basila(04.00) : 07:58:51 @ 2022-07-14 (Fake Spawn 3t) * 
  - talkin(08.00) : 08:01:48 @ 2022-07-14 (Fake Spawn 1t) * 
+ - flynt(05.00) : 08:15:06 @ 2022-07-14 (Fake Spawn 1t) * 
  - mutated(08.00) : 08:16:42 @ 2022-07-14 (No Input 0t) * 
+ - enkura(06.00) : 09:59:40 @ 2022-07-14 (Fake Spawn 2t) * 
+ - valefar(06.00) : 10:00:38 @ 2022-07-14 (Fake Spawn 2t) * 
+ - matura(06.00) : 10:01:07 @ 2022-07-14 (Fake Spawn 2t) * 
+ - hisilrome(06.00) : 10:08:40 @ 2022-07-14 (Fake Spawn 1t) * 
  - kelsus(10.00) : 11:04:45 @ 2022-07-14 (Fake Spawn 1t) * 
  - talakin(10.00) : 11:06:33 @ 2022-07-14 (No Input 1t) * 
  - sarka(10.00) : 11:08:10 @ 2022-07-14 (No Input 1t) * 
+ - timitris(08.00) : 11:08:53 @ 2022-07-14 (No Input 1t) * 
  - medusa(10.00) : 11:11:13 @ 2022-07-14 (No Input 1t) * 
  - katan(10.00) : 11:19:15 @ 2022-07-14 (No Input 1t) * 
+ - contaminated(08.00) : 11:26:38 @ 2022-07-14 (No Input 0t) * 
+ - timiniel(08.00) : 11:35:00 @ 2022-07-14 (No Input 1t) * 
  - lily(12.00) : 12:19:07 @ 2022-07-14 (No Input 0t) * 
  - coroon(12.00) : 12:23:04 @ 2022-07-14 (No Input 1t) * 
+ - samuel(12.00) : 15:36:04 @ 2022-07-14 (No Input 1t) * 
+ - balbo(12.00) : 16:04:48 @ 2022-07-14 (Fake Spawn 1t) * 
  - normus(18.00) : 18:11:28 @ 2022-07-14 (Fake Spawn 0t) * 
