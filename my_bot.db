@@ -1,8 +1,4 @@
 ----- Boss Information -----
- - behemoth(09.00) : 20:06:31 @ 2022-07-18 (No Input 0t) * 
- - basila(04.00) : 20:13:08 @ 2022-07-18 (Fake Spawn 5t) * 
- - pannarod(05.00) : 20:21:44 @ 2022-07-18 (Fake Spawn 4t) * 
- - core(10.00) : 20:26:31 @ 2022-07-18 (Fake Spawn 5t) * 
  - glaki(08.00) : 20:49:31 @ 2022-07-18 (No Input 3t) * 
  - samuel(12.00) : 20:55:06 @ 2022-07-18 (No Input 2t) * 
  - timiniel(08.00) : 21:11:13 @ 2022-07-18 (No Input 0t) * 
@@ -13,6 +9,7 @@
  - felis(03.00) : 22:35:20 @ 2022-07-18 (Fake Spawn 3t) * 
  - stonegeist(07.00) : 22:38:27 @ 2022-07-18 (No Input 0t) * 
  - repiro(07.00) : 23:17:51 @ 2022-07-18 (Fake Spawn 3t) * 
+ - basila(04.00) : 00:13:08 @ 2022-07-19 (Fake Spawn 6t) * 
  - hisilrome(06.00) : 00:41:21 @ 2022-07-19 (Fake Spawn 4t) * 
  - flynt(05.00) : 00:47:18 @ 2022-07-19 (Fake Spawn 5t) * 
  - lily(12.00) : 00:50:08 @ 2022-07-19 (No Input 0t) * 
@@ -24,6 +21,7 @@
  - antqueen(06.00) : 01:20:41 @ 2022-07-19 (Fake Spawn 8t) * 
  - andras(15.00) : 01:20:50 @ 2022-07-19 (Fake Spawn 4t) * 
  - medusa(10.00) : 01:21:03 @ 2022-07-19 (No Input 0t) * 
+ - pannarod(05.00) : 01:21:44 @ 2022-07-19 (Fake Spawn 5t) * 
  - breka(06.00) : 01:22:59 @ 2022-07-19 (Fake Spawn 2t) * 
  - chertuba(06.00) : 01:32:10 @ 2022-07-19 (Fake Spawn 1t) * 
  - gareth(09.00) : 01:36:53 @ 2022-07-19 (Fake Spawn 0t) * 
@@ -31,10 +29,13 @@
  - landor(09.00) : 02:23:11 @ 2022-07-19 (No Input 1t) * 
  - katan(10.00) : 02:31:02 @ 2022-07-19 (No Input 0t) * 
  - timitris(08.00) : 03:21:39 @ 2022-07-19 (No Input 1t) * 
+ - contaminated(08.00) : 03:57:16 @ 2022-07-19 (No Input 1t) * 
  - balbo(12.00) : 04:27:47 @ 2022-07-19 (Fake Spawn 2t) * 
+ - behemoth(09.00) : 05:06:31 @ 2022-07-19 (No Input 1t) * 
  - normus(18.00) : 06:11:09 @ 2022-07-19 (Fake Spawn 6t) * 
  - mirror(11.00) : 06:19:22 @ 2022-07-19 (No Input 1t) * 
  - shila(12.00) : 06:24:04 @ 2022-07-19 (Fake Spawn 4t) * 
+ - core(10.00) : 06:26:31 @ 2022-07-19 (Fake Spawn 6t) * 
  - moof(12.00) : 06:29:51 @ 2022-07-19 (Fake Spawn 4t) * 
  - dragonb(12.00) : 06:42:05 @ 2022-07-19 (Fake Spawn 11t) * 
  - cabrio(12.00) : 06:50:46 @ 2022-07-19 (Fake Spawn 2t) * 
@@ -43,4 +44,3 @@
  - selu(12.00) : 07:41:06 @ 2022-07-19 (Fake Spawn 4t) * 
  - haff(20.00) : 10:45:03 @ 2022-07-19 (Fake Spawn 1t) * 
  - orfen(24.00) : 19:40:20 @ 2022-07-19 (Fake Spawn 2t) * 
- - contaminated(08.00) : 19:57:16 @ 2022-07-18 (No Input 0t) * 
