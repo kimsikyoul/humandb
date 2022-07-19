@@ -1,26 +1,10 @@
 ----- Boss Information -----
- - felis(03.00) : 04:35:20 @ 2022-07-19 (Fake Spawn 5t) * 
- - glaki(08.00) : 04:49:31 @ 2022-07-19 (No Input 4t) * 
- - behemoth(09.00) : 05:08:12 @ 2022-07-19 (No Input 0t) * 
- - timiniel(08.00) : 05:14:06 @ 2022-07-19 (No Input 0t) * 
- - tromba(07.00) : 05:34:54 @ 2022-07-19 (Fake Spawn 0t) * 
- - stonegeist(07.00) : 05:39:24 @ 2022-07-19 (No Input 0t) * 
- - flynt(05.00) : 05:47:18 @ 2022-07-19 (Fake Spawn 6t) * 
- - normus(18.00) : 06:11:09 @ 2022-07-19 (Fake Spawn 6t) * 
- - repiro(07.00) : 06:17:51 @ 2022-07-19 (Fake Spawn 4t) * 
- - mirror(11.00) : 06:19:22 @ 2022-07-19 (No Input 1t) * 
- - pannarod(05.00) : 06:22:35 @ 2022-07-19 (Fake Spawn 1t) * 
- - shila(12.00) : 06:24:04 @ 2022-07-19 (Fake Spawn 4t) * 
- - core(10.00) : 06:26:31 @ 2022-07-19 (Fake Spawn 6t) * 
- - moof(12.00) : 06:29:51 @ 2022-07-19 (Fake Spawn 4t) * 
- - hisilrome(06.00) : 06:41:21 @ 2022-07-19 (Fake Spawn 5t) * 
- - dragonb(12.00) : 06:42:05 @ 2022-07-19 (Fake Spawn 11t) * 
- - cabrio(12.00) : 06:50:46 @ 2022-07-19 (Fake Spawn 2t) * 
  - pandraeed(12.00) : 07:16:39 @ 2022-07-19 (No Input 1t) * 
  - antqueen(06.00) : 07:20:41 @ 2022-07-19 (Fake Spawn 9t) * 
  - breka(06.00) : 07:22:59 @ 2022-07-19 (Fake Spawn 3t) * 
  - savan(12.00) : 07:26:23 @ 2022-07-19 (No Input 1t) * 
  - chertuba(06.00) : 07:32:10 @ 2022-07-19 (Fake Spawn 2t) * 
+ - felis(03.00) : 07:35:20 @ 2022-07-19 (Fake Spawn 6t) * 
  - selu(12.00) : 07:41:06 @ 2022-07-19 (Fake Spawn 4t) * 
  - basila(04.00) : 08:13:08 @ 2022-07-19 (Fake Spawn 8t) * 
  - mutated(08.00) : 08:52:30 @ 2022-07-19 (No Input 1t) * 
@@ -31,16 +15,32 @@
  - matura(06.00) : 10:12:55 @ 2022-07-19 (Fake Spawn 1t) * 
  - gareth(09.00) : 10:36:53 @ 2022-07-19 (Fake Spawn 1t) * 
  - haff(20.00) : 10:45:03 @ 2022-07-19 (Fake Spawn 1t) * 
+ - flynt(05.00) : 10:47:18 @ 2022-07-19 (Fake Spawn 7t) * 
  - kelsus(10.00) : 11:10:42 @ 2022-07-19 (Fake Spawn 1t) * 
  - talakin(10.00) : 11:15:32 @ 2022-07-19 (No Input 1t) * 
  - sarka(10.00) : 11:17:18 @ 2022-07-19 (No Input 1t) * 
  - medusa(10.00) : 11:21:03 @ 2022-07-19 (No Input 1t) * 
  - timitris(08.00) : 11:21:39 @ 2022-07-19 (No Input 2t) * 
+ - pannarod(05.00) : 11:22:35 @ 2022-07-19 (Fake Spawn 2t) * 
  - landor(09.00) : 11:23:11 @ 2022-07-19 (No Input 2t) * 
  - contaminated(08.00) : 11:59:24 @ 2022-07-19 (No Input 1t) * 
  - katan(10.00) : 12:31:02 @ 2022-07-19 (No Input 1t) * 
+ - tromba(07.00) : 12:34:54 @ 2022-07-19 (Fake Spawn 1t) * 
+ - stonegeist(07.00) : 12:41:08 @ 2022-07-19 (No Input 0t) * 
+ - hisilrome(06.00) : 12:41:21 @ 2022-07-19 (Fake Spawn 6t) * 
+ - glaki(08.00) : 12:49:31 @ 2022-07-19 (No Input 5t) * 
  - lily(12.00) : 12:50:08 @ 2022-07-19 (No Input 1t) * 
+ - timiniel(08.00) : 13:14:06 @ 2022-07-19 (No Input 1t) * 
+ - repiro(07.00) : 13:17:51 @ 2022-07-19 (Fake Spawn 5t) * 
  - coroon(12.00) : 13:41:54 @ 2022-07-19 (No Input 1t) * 
+ - behemoth(09.00) : 14:08:12 @ 2022-07-19 (No Input 1t) * 
  - andras(15.00) : 16:20:50 @ 2022-07-19 (Fake Spawn 5t) * 
+ - core(10.00) : 16:26:31 @ 2022-07-19 (Fake Spawn 7t) * 
+ - balbo(12.00) : 16:27:47 @ 2022-07-19 (Fake Spawn 3t) * 
+ - mirror(11.00) : 17:19:22 @ 2022-07-19 (No Input 2t) * 
+ - shila(12.00) : 18:24:04 @ 2022-07-19 (Fake Spawn 5t) * 
+ - moof(12.00) : 18:29:51 @ 2022-07-19 (Fake Spawn 5t) * 
+ - dragonb(12.00) : 18:42:05 @ 2022-07-19 (Fake Spawn 12t) * 
+ - cabrio(12.00) : 18:50:46 @ 2022-07-19 (Fake Spawn 3t) * 
  - orfen(24.00) : 19:56:54 @ 2022-07-19 (Fake Spawn 0t) * 
- - balbo(12.00) : 04:27:47 @ 2022-07-19 (Fake Spawn 2t) * 
+ - normus(18.00) : 00:11:09 @ 2022-07-20 (Fake Spawn 7t) * 
