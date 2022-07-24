@@ -1,9 +1,4 @@
 ----- Boss Information -----
- - mirror(11.00) : 15:06:50 @ 2022-07-24 (No Input 1t) * 
- - talkin(08.00) : 15:07:23 @ 2022-07-24 (Fake Spawn 10t) * 
- - timitris(08.00) : 15:13:12 @ 2022-07-24 (No Input 5t) * 
- - tromba(07.00) : 15:25:10 @ 2022-07-24 (Fake Spawn 6t) * 
- - stonegeist(07.00) : 15:25:53 @ 2022-07-24 (No Input 2t) * 
  - contaminated(08.00) : 15:44:00 @ 2022-07-24 (No Input 2t) * 
  - repiro(07.00) : 16:12:51 @ 2022-07-24 (Fake Spawn 6t) * 
  - basila(04.00) : 16:35:44 @ 2022-07-24 (Fake Spawn 4t) * 
@@ -12,6 +7,7 @@
  - antqueen(06.00) : 17:11:26 @ 2022-07-24 (Fake Spawn 7t) * 
  - hisilrome(06.00) : 17:18:35 @ 2022-07-24 (Fake Spawn 7t) * 
  - coroon(12.00) : 17:32:18 @ 2022-07-24 (No Input 1t) * 
+ - felis(03.00) : 17:41:52 @ 2022-07-24 (Fake Spawn 7t) * 
  - gareth(09.00) : 17:43:18 @ 2022-07-24 (Fake Spawn 2t) * 
  - pannarod(05.00) : 18:20:26 @ 2022-07-24 (Fake Spawn 4t) * 
  - core(10.00) : 19:16:19 @ 2022-07-24 (Fake Spawn 4t) * 
@@ -30,9 +26,11 @@
  - moof(12.00) : 22:52:54 @ 2022-07-24 (Fake Spawn 2t) * 
  - ukanba(18.00) : 23:03:42 @ 2022-07-24 (Fake Spawn 1t) * 
  - kelsus(10.00) : 23:07:05 @ 2022-07-24 (Fake Spawn 5t) * 
+ - talkin(08.00) : 23:07:23 @ 2022-07-24 (Fake Spawn 11t) * 
  - normus(18.00) : 23:08:29 @ 2022-07-24 (Fake Spawn 1t) * 
  - pandraeed(12.00) : 23:08:57 @ 2022-07-24 (No Input 4t) * 
  - selu(12.00) : 23:09:14 @ 2022-07-24 (Fake Spawn 8t) * 
+ - timitris(08.00) : 23:13:12 @ 2022-07-24 (No Input 6t) * 
  - savan(12.00) : 23:13:19 @ 2022-07-24 (No Input 2t) * 
  - talakin(10.00) : 23:14:16 @ 2022-07-24 (No Input 2t) * 
  - sarka(10.00) : 23:16:57 @ 2022-07-24 (No Input 2t) * 
@@ -41,6 +39,8 @@
  - samuel(12.00) : 23:46:12 @ 2022-07-24 (No Input 2t) * 
  - dragonb(12.00) : 00:24:57 @ 2022-07-25 (Fake Spawn 5t) * 
  - cabrio(12.00) : 01:28:22 @ 2022-07-25 (Fake Spawn 2t) * 
+ - mirror(11.00) : 02:06:50 @ 2022-07-25 (No Input 2t) * 
  - andras(15.00) : 05:32:21 @ 2022-07-25 (Fake Spawn 3t) * 
  - haff(20.00) : 05:42:32 @ 2022-07-25 (Fake Spawn 1t) * 
- - felis(03.00) : 14:41:52 @ 2022-07-24 (Fake Spawn 6t) * 
+ - tromba(07.00) : 15:25:10 @ 2022-07-24 (Fake Spawn 6t) * 
+ - stonegeist(07.00) : 15:25:53 @ 2022-07-24 (No Input 2t) * 
