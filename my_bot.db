@@ -1,8 +1,4 @@
 ----- Boss Information -----
- - landor(09.00) : 01:35:23 @ 2022-08-01 (No Input 5t) * 
- - timiniel(08.00) : 01:50:40 @ 2022-08-01 (No Input 1t) * 
- - pannarod(05.00) : 02:06:17 @ 2022-08-01 (Fake Spawn 7t) * 
- - felis(03.00) : 02:19:25 @ 2022-08-01 (Fake Spawn 6t) * 
  - valefar(06.00) : 02:40:36 @ 2022-08-01 (Fake Spawn 3t) * 
  - matura(06.00) : 02:42:26 @ 2022-08-01 (Fake Spawn 2t) * 
  - haff(20.00) : 02:59:36 @ 2022-08-01 (Fake Spawn 4t) * 
@@ -18,6 +14,7 @@
  - enkura(06.00) : 05:07:41 @ 2022-08-01 (Fake Spawn 9t) * 
  - chertuba(06.00) : 05:08:57 @ 2022-08-01 (Fake Spawn 3t) * 
  - mirror(11.00) : 05:19:18 @ 2022-08-01 (No Input 5t) * 
+ - felis(03.00) : 05:19:25 @ 2022-08-01 (Fake Spawn 7t) * 
  - lily(12.00) : 05:23:03 @ 2022-08-01 (No Input 1t) * 
  - coroon(12.00) : 05:27:03 @ 2022-08-01 (No Input 4t) * 
  - stonegeist(07.00) : 05:30:26 @ 2022-08-01 (No Input 2t) * 
@@ -26,6 +23,7 @@
  - gareth(09.00) : 05:38:05 @ 2022-08-01 (Fake Spawn 1t) * 
  - behemoth(09.00) : 05:46:17 @ 2022-08-01 (No Input 1t) * 
  - core(10.00) : 05:53:52 @ 2022-08-01 (Fake Spawn 5t) * 
+ - pannarod(05.00) : 07:06:17 @ 2022-08-01 (Fake Spawn 8t) * 
  - timitris(08.00) : 07:19:49 @ 2022-08-01 (No Input 2t) * 
  - contaminated(08.00) : 08:07:28 @ 2022-08-01 (No Input 2t) * 
  - selu(12.00) : 08:35:26 @ 2022-08-01 (Fake Spawn 1t) * 
@@ -34,6 +32,8 @@
  - talakin(10.00) : 09:11:37 @ 2022-08-01 (No Input 2t) * 
  - medusa(10.00) : 09:15:13 @ 2022-08-01 (No Input 2t) * 
  - katan(10.00) : 09:43:03 @ 2022-08-01 (No Input 2t) * 
+ - timiniel(08.00) : 09:50:40 @ 2022-08-01 (No Input 2t) * 
+ - landor(09.00) : 10:35:23 @ 2022-08-01 (No Input 6t) * 
  - shila(12.00) : 10:44:02 @ 2022-08-01 (Fake Spawn 5t) * 
  - moof(12.00) : 10:50:51 @ 2022-08-01 (Fake Spawn 5t) * 
  - balbo(12.00) : 11:05:13 @ 2022-08-01 (Fake Spawn 10t) * 
