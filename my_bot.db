@@ -1,9 +1,4 @@
 ----- Boss Information -----
- - pannarod(05.00) : 12:06:17 @ 2022-08-01 (Fake Spawn 9t) * 
- - stonegeist(07.00) : 12:30:26 @ 2022-08-01 (No Input 3t) * 
- - talkin(08.00) : 12:34:05 @ 2022-08-01 (Fake Spawn 13t) * 
- - tromba(07.00) : 13:04:09 @ 2022-08-01 (Fake Spawn 0t) * 
- - mutated(08.00) : 13:38:39 @ 2022-08-01 (No Input 0t) * 
  - felis(03.00) : 14:19:25 @ 2022-08-01 (Fake Spawn 10t) * 
  - flynt(05.00) : 14:40:00 @ 2022-08-01 (Fake Spawn 14t) * 
  - gareth(09.00) : 14:40:30 @ 2022-08-01 (Fake Spawn 0t) * 
@@ -20,6 +15,7 @@
  - ukanba(18.00) : 16:43:27 @ 2022-08-01 (Fake Spawn 1t) * 
  - normus(18.00) : 16:53:42 @ 2022-08-01 (Fake Spawn 1t) * 
  - orfen(24.00) : 17:06:04 @ 2022-08-01 (Fake Spawn 2t) * 
+ - pannarod(05.00) : 17:06:17 @ 2022-08-01 (Fake Spawn 10t) * 
  - enkura(06.00) : 17:07:41 @ 2022-08-01 (Fake Spawn 11t) * 
  - chertuba(06.00) : 17:08:57 @ 2022-08-01 (Fake Spawn 5t) * 
  - breka(06.00) : 17:11:07 @ 2022-08-01 (Fake Spawn 0t) * 
@@ -32,10 +28,14 @@
  - sarka(10.00) : 19:12:37 @ 2022-08-01 (No Input 0t) * 
  - talakin(10.00) : 19:14:27 @ 2022-08-01 (No Input 0t) * 
  - medusa(10.00) : 19:18:15 @ 2022-08-01 (No Input 0t) * 
+ - stonegeist(07.00) : 19:33:58 @ 2022-08-01 (No Input 0t) * 
  - landor(09.00) : 19:35:23 @ 2022-08-01 (No Input 7t) * 
+ - tromba(07.00) : 20:04:09 @ 2022-08-01 (Fake Spawn 1t) * 
  - katan(10.00) : 20:14:05 @ 2022-08-01 (No Input 0t) * 
+ - talkin(08.00) : 20:34:05 @ 2022-08-01 (Fake Spawn 14t) * 
  - selu(12.00) : 20:35:26 @ 2022-08-01 (Fake Spawn 2t) * 
  - kelsus(10.00) : 21:27:44 @ 2022-08-01 (Fake Spawn 0t) * 
+ - mutated(08.00) : 21:41:08 @ 2022-08-01 (No Input 0t) * 
  - shila(12.00) : 22:54:48 @ 2022-08-01 (Fake Spawn 0t) * 
  - moof(12.00) : 22:59:31 @ 2022-08-01 (Fake Spawn 0t) * 
  - haff(20.00) : 22:59:36 @ 2022-08-01 (Fake Spawn 5t) * 
@@ -43,4 +43,4 @@
  - pandraeed(12.00) : 23:12:15 @ 2022-08-01 (No Input 0t) * 
  - savan(12.00) : 23:15:29 @ 2022-08-01 (No Input 0t) * 
  - samuel(12.00) : 23:23:55 @ 2022-08-01 (No Input 6t) * 
- - cabrio(12.00) : 11:33:16 @ 2022-08-01 (Fake Spawn 5t) * 
+ - cabrio(12.00) : 23:33:16 @ 2022-08-01 (Fake Spawn 6t) * 
