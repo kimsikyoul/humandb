@@ -1,11 +1,4 @@
 ----- Boss Information -----
- - contaminated(08.00) : 03:07:11 @ 2022-09-17 (No Input 0t) * 
- - katan(10.00) : 03:12:30 @ 2022-09-17 (No Input 0t) * 
- - timiniel(08.00) : 03:16:33 @ 2022-09-17 (No Input 0t) * 
- - felis(03.00) : 04:00:58 @ 2022-09-17 (Fake Spawn 10t) * 
- - behemoth(09.00) : 04:13:56 @ 2022-09-17 (No Input 0t) * 
- - selu(12.00) : 04:14:40 @ 2022-09-17 (Fake Spawn 3t) * 
- - balbo(12.00) : 04:20:43 @ 2022-09-17 (Fake Spawn 0t) * 
  - repiro(07.00) : 04:53:48 @ 2022-09-17 (Fake Spawn 3t) * 
  - mirror(11.00) : 05:32:16 @ 2022-09-17 (No Input 0t) * 
  - antqueen(06.00) : 06:21:05 @ 2022-09-17 (Fake Spawn 4t) * 
@@ -19,6 +12,7 @@
  - basila(04.00) : 06:58:21 @ 2022-09-17 (Fake Spawn 0t) * 
  - pandraeed(12.00) : 06:58:45 @ 2022-09-17 (No Input 0t) * 
  - savan(12.00) : 07:00:20 @ 2022-09-17 (No Input 0t) * 
+ - felis(03.00) : 07:00:58 @ 2022-09-17 (Fake Spawn 11t) * 
  - stonegeist(07.00) : 07:01:50 @ 2022-09-17 (No Input 1t) * 
  - dragonb(12.00) : 07:13:44 @ 2022-09-17 (Fake Spawn 0t) * 
  - cabrio(12.00) : 07:24:22 @ 2022-09-17 (Fake Spawn 0t) * 
@@ -28,10 +22,16 @@
  - kelsus(10.00) : 10:13:29 @ 2022-09-17 (Fake Spawn 5t) * 
  - gareth(09.00) : 10:22:26 @ 2022-09-17 (Fake Spawn 1t) * 
  - timitris(08.00) : 11:00:16 @ 2022-09-17 (No Input 0t) * 
+ - contaminated(08.00) : 11:09:17 @ 2022-09-17 (No Input 0t) * 
+ - timiniel(08.00) : 11:21:43 @ 2022-09-17 (No Input 0t) * 
  - lily(12.00) : 12:23:06 @ 2022-09-17 (No Input 1t) * 
  - coroon(12.00) : 12:26:45 @ 2022-09-17 (No Input 1t) * 
  - samuel(12.00) : 12:36:25 @ 2022-09-17 (No Input 1t) * 
  - sarka(10.00) : 12:59:53 @ 2022-09-17 (No Input 0t) * 
  - talakin(10.00) : 13:00:30 @ 2022-09-17 (No Input 0t) * 
  - medusa(10.00) : 13:02:56 @ 2022-09-17 (No Input 0t) * 
+ - behemoth(09.00) : 13:13:56 @ 2022-09-17 (No Input 1t) * 
+ - katan(10.00) : 13:14:19 @ 2022-09-17 (No Input 0t) * 
  - andras(15.00) : 13:32:48 @ 2022-09-17 (Fake Spawn 0t) * 
+ - selu(12.00) : 16:14:40 @ 2022-09-17 (Fake Spawn 4t) * 
+ - balbo(12.00) : 04:20:43 @ 2022-09-17 (Fake Spawn 0t) * 
